@@ -1,6 +1,6 @@
-# challenge
+# flutter-challenge
 
-A new Flutter project.
+A new Flutter technical challenge.
 
 ## Getting Started
 
